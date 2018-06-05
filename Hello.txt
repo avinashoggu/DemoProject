@@ -1,6 +1,10 @@
 Hi This is Avinash
 ********
+<<<<<<< HEAD
 Hey this is second change1
+=======
+Hey this is second change2
+>>>>>>> a8883bd7374802a5aafc17a0bfa9405288ae68f4
 Hey this is second change3
 
 
